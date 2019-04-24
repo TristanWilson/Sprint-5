@@ -1,5 +1,10 @@
 This is our design document:
 https://docs.google.com/document/d/1rZEzEpvylWDSKBYY4twSRDN-f-VjPdusIJ-dHb8YVQI/edit?usp=sharing
 
+Running Notes:
+Run ServerImplementation.
+Run Main.
+
 Testing Notes:
 Run ApplicationTest. It is a suite that runs all tests.
+
